@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Lubna ...
+https://www.linkedin.com/in/lubna-gemaa-a3359a161/ 
 
-<!--
-**lubnagemaa65/lubnagemaa65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩🏻‍💻  About Me
+I'm a Computer Engineer and Web developer Developer !!
+Night-day Coding
+
+🌱 I’m currently learning flutter 
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I think I'm funny!
+✉️  You can shoot me an email at lubnagemaa65@gmail.com ! I'll try to respond as soon as I can.
+
+🔧 Technologies & Tools
+      Python C++ C# Dart HTML CSS JavaScript
+
+firebase git
